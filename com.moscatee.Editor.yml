@@ -37,7 +37,7 @@ modules:
       - type: git
         url: https://github.com/Quiabbo/mosca-tee-editor.git
         tag: v0.0.2
-        commit: 32a38f3fde307cf494d70f94e072845f99467c62
+        commit: 2e4b391968b31a7d3985c341caa1d01018f703aa
         dest: src
       - generated-sources.json
       - type: script
